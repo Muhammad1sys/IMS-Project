@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Inventory Management System (IMS)
 
 ## Overview
@@ -10,9 +10,7 @@ IMS is a command-line application designed to manage inventory efficiently. User
 Passwords are securely hashed using bcrypt, ensuring sensitive data remains protected.
 
 ## Future Enhancements
+This IMS was just developed as a short assignment and although it's secure enough but it still needs a lot more improvements.
 With further development, this system can be integrated into e-commerce platforms or marketplaces, offering full-scale inventory management for online stores.
 
 Repo Link: [https://github.com/Muhammad1sys/IMS-Project](https://github.com/Muhammad1sys/IMS-Project)
-```
-
-This version is more streamlined and human-friendly, while covering the essentials and future potential of the project.
